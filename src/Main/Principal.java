@@ -13,6 +13,8 @@ public class Principal {
 		
 		System.out.println("Se grega esto nuevo al modulo principal");
 		
+		System.out.println("Trabajando en la segunda rama");
+		
 		// Declarar las variables
 		Scanner lectura = null;
 
